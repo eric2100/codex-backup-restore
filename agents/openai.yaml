@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 資料備份與還原"
+  short_description: "建立可驗證的離線備份，保全現有資料後還原，處理鎖定並區分資料與功能驗證"
+  default_prompt: "使用 $codex-backup-restore，依目前環境完成資料備份或還原，保留回復副本並驗證結果。"
